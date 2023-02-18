@@ -7,7 +7,7 @@ Voiture-Scraper est un programme python qui pemet de recuperer quelques données
 
 #### lancez les commandes : 
 ```
-sudo apt update && pip install -r requirements.txt 
+sudo apt update 
 git clone https://github.com/BEN-Djemel/Voiture-Scraper.git 
-cd Voiture-Scraper && chmod u+x VoitureScrap.py && python VoitureScrap.py
+cd Voiture-Scraper && pip install -r requirements.txt && chmod u+x VoitureScrap.py && python VoitureScrap.py
 ```
